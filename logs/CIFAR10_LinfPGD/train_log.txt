@@ -1,0 +1,8 @@
+Epoch 1: iter 0, lr=0.01, standard acc: 60.938%,adv acc: 14.844%spent 1.05s,tr_loss: 2.405
+Epoch 1: iter 200, lr=0.01, standard acc: 47.656%,adv acc: 30.469%spent 170.44s,tr_loss: 1.856
+
+==================== evaluation at epoch: 1 iteration: 391 ====================
+test acc: 37.242%, test adv acc: 24.859%, spent: 72.035 s
+============================ end of evaluation ============================
+
+Epoch 2: iter 400, lr=0.01, standard acc: 51.562%,adv acc: 36.719%spent 8.30s,tr_loss: 1.734

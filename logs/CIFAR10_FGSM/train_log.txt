@@ -1,0 +1,1412 @@
+epoch: 1, iter: 0,lr=0.01, spent 1.52s,tr_loss: 2.016
+standard acc: 64.062%,adv acc: 31.250%
+epoch: 1, iter: 100,lr=0.01, spent 8.57s,tr_loss: 1.795
+standard acc: 48.438%,adv acc: 33.594%
+epoch: 1, iter: 200,lr=0.01, spent 15.81s,tr_loss: 1.807
+standard acc: 47.656%,adv acc: 31.250%
+epoch: 1, iter: 300,lr=0.01, spent 23.13s,tr_loss: 1.685
+standard acc: 50.781%,adv acc: 31.250%
+
+==================== evaluation at epoch: 1 iteration: 391 ====================
+test acc: 38.414%, test adv acc: 26.562%, spent: 5.417 s
+============================ end of evaluation ============================
+
+epoch: 2, iter: 400,lr=0.01, spent 0.98s,tr_loss: 1.801
+standard acc: 44.531%,adv acc: 32.031%
+epoch: 2, iter: 500,lr=0.01, spent 8.75s,tr_loss: 1.648
+standard acc: 53.125%,adv acc: 35.938%
+epoch: 2, iter: 600,lr=0.01, spent 17.33s,tr_loss: 1.766
+standard acc: 52.344%,adv acc: 32.031%
+epoch: 2, iter: 700,lr=0.01, spent 25.36s,tr_loss: 1.780
+standard acc: 52.344%,adv acc: 31.250%
+
+==================== evaluation at epoch: 2 iteration: 782 ====================
+test acc: 40.008%, test adv acc: 28.258%, spent: 5.564 s
+============================ end of evaluation ============================
+
+epoch: 3, iter: 800,lr=0.01, spent 1.83s,tr_loss: 1.619
+standard acc: 56.250%,adv acc: 43.750%
+epoch: 3, iter: 900,lr=0.01, spent 9.88s,tr_loss: 1.630
+standard acc: 51.562%,adv acc: 35.156%
+epoch: 3, iter: 1000,lr=0.01, spent 18.36s,tr_loss: 1.696
+standard acc: 52.344%,adv acc: 38.281%
+epoch: 3, iter: 1100,lr=0.01, spent 27.07s,tr_loss: 1.809
+standard acc: 45.312%,adv acc: 34.375%
+
+==================== evaluation at epoch: 3 iteration: 1173 ====================
+test acc: 40.391%, test adv acc: 29.008%, spent: 6.015 s
+============================ end of evaluation ============================
+
+epoch: 4, iter: 1200,lr=0.01, spent 2.46s,tr_loss: 1.520
+standard acc: 56.250%,adv acc: 44.531%
+epoch: 4, iter: 1300,lr=0.01, spent 10.11s,tr_loss: 1.539
+standard acc: 58.594%,adv acc: 46.094%
+epoch: 4, iter: 1400,lr=0.01, spent 17.77s,tr_loss: 1.864
+standard acc: 46.094%,adv acc: 28.125%
+epoch: 4, iter: 1500,lr=0.01, spent 25.41s,tr_loss: 1.631
+standard acc: 60.156%,adv acc: 40.625%
+
+==================== evaluation at epoch: 4 iteration: 1564 ====================
+test acc: 40.766%, test adv acc: 29.359%, spent: 5.387 s
+============================ end of evaluation ============================
+
+epoch: 5, iter: 1600,lr=0.01, spent 3.12s,tr_loss: 1.761
+standard acc: 57.031%,adv acc: 34.375%
+epoch: 5, iter: 1700,lr=0.01, spent 10.73s,tr_loss: 1.610
+standard acc: 49.219%,adv acc: 32.812%
+epoch: 5, iter: 1800,lr=0.01, spent 21.50s,tr_loss: 1.632
+standard acc: 56.250%,adv acc: 40.625%
+epoch: 5, iter: 1900,lr=0.01, spent 33.12s,tr_loss: 1.555
+standard acc: 57.031%,adv acc: 40.625%
+
+==================== evaluation at epoch: 5 iteration: 1955 ====================
+test acc: 40.805%, test adv acc: 29.461%, spent: 7.559 s
+============================ end of evaluation ============================
+
+epoch: 6, iter: 2000,lr=0.01, spent 4.61s,tr_loss: 1.659
+standard acc: 56.250%,adv acc: 37.500%
+epoch: 6, iter: 2100,lr=0.01, spent 14.08s,tr_loss: 1.643
+standard acc: 53.906%,adv acc: 35.156%
+epoch: 6, iter: 2200,lr=0.01, spent 22.92s,tr_loss: 1.642
+standard acc: 53.125%,adv acc: 42.188%
+epoch: 6, iter: 2300,lr=0.01, spent 33.23s,tr_loss: 1.809
+standard acc: 51.562%,adv acc: 32.031%
+
+==================== evaluation at epoch: 6 iteration: 2346 ====================
+test acc: 42.055%, test adv acc: 30.156%, spent: 6.021 s
+============================ end of evaluation ============================
+
+epoch: 7, iter: 2400,lr=0.01, spent 4.96s,tr_loss: 1.650
+standard acc: 54.688%,adv acc: 39.062%
+epoch: 7, iter: 2500,lr=0.01, spent 14.09s,tr_loss: 1.604
+standard acc: 56.250%,adv acc: 42.188%
+epoch: 7, iter: 2600,lr=0.01, spent 23.49s,tr_loss: 1.610
+standard acc: 53.125%,adv acc: 37.500%
+epoch: 7, iter: 2700,lr=0.01, spent 32.65s,tr_loss: 1.645
+standard acc: 57.812%,adv acc: 34.375%
+
+==================== evaluation at epoch: 7 iteration: 2737 ====================
+test acc: 42.430%, test adv acc: 30.359%, spent: 6.404 s
+============================ end of evaluation ============================
+
+epoch: 8, iter: 2800,lr=0.01, spent 6.38s,tr_loss: 1.789
+standard acc: 46.094%,adv acc: 36.719%
+epoch: 8, iter: 2900,lr=0.01, spent 16.81s,tr_loss: 1.772
+standard acc: 53.125%,adv acc: 31.250%
+epoch: 8, iter: 3000,lr=0.01, spent 26.33s,tr_loss: 1.521
+standard acc: 57.031%,adv acc: 43.750%
+epoch: 8, iter: 3100,lr=0.01, spent 34.42s,tr_loss: 1.672
+standard acc: 49.219%,adv acc: 32.031%
+
+==================== evaluation at epoch: 8 iteration: 3128 ====================
+test acc: 42.281%, test adv acc: 30.516%, spent: 10.807 s
+============================ end of evaluation ============================
+
+epoch: 9, iter: 3200,lr=0.01, spent 11.93s,tr_loss: 1.665
+standard acc: 54.688%,adv acc: 35.938%
+epoch: 9, iter: 3300,lr=0.01, spent 25.70s,tr_loss: 1.655
+standard acc: 54.688%,adv acc: 38.281%
+epoch: 9, iter: 3400,lr=0.01, spent 38.46s,tr_loss: 1.595
+standard acc: 52.344%,adv acc: 40.625%
+epoch: 9, iter: 3500,lr=0.01, spent 49.00s,tr_loss: 1.635
+standard acc: 47.656%,adv acc: 35.156%
+
+==================== evaluation at epoch: 9 iteration: 3519 ====================
+test acc: 42.758%, test adv acc: 30.344%, spent: 7.277 s
+============================ end of evaluation ============================
+
+epoch: 10, iter: 3600,lr=0.01, spent 7.42s,tr_loss: 1.700
+standard acc: 55.469%,adv acc: 34.375%
+epoch: 10, iter: 3700,lr=0.01, spent 15.81s,tr_loss: 1.592
+standard acc: 52.344%,adv acc: 40.625%
+epoch: 10, iter: 3800,lr=0.01, spent 24.65s,tr_loss: 1.616
+standard acc: 57.812%,adv acc: 38.281%
+epoch: 10, iter: 3900,lr=0.01, spent 33.97s,tr_loss: 1.576
+standard acc: 59.375%,adv acc: 43.750%
+
+==================== evaluation at epoch: 10 iteration: 3910 ====================
+test acc: 42.719%, test adv acc: 30.195%, spent: 5.493 s
+============================ end of evaluation ============================
+
+epoch: 11, iter: 4000,lr=0.01, spent 6.97s,tr_loss: 1.519
+standard acc: 64.844%,adv acc: 48.438%
+epoch: 11, iter: 4100,lr=0.01, spent 14.31s,tr_loss: 1.626
+standard acc: 57.812%,adv acc: 37.500%
+epoch: 11, iter: 4200,lr=0.01, spent 21.83s,tr_loss: 1.728
+standard acc: 60.156%,adv acc: 39.844%
+epoch: 11, iter: 4300,lr=0.01, spent 29.19s,tr_loss: 1.534
+standard acc: 60.000%,adv acc: 37.500%
+
+==================== evaluation at epoch: 11 iteration: 4301 ====================
+test acc: 43.672%, test adv acc: 31.031%, spent: 5.216 s
+============================ end of evaluation ============================
+
+epoch: 12, iter: 4400,lr=0.01, spent 7.76s,tr_loss: 1.525
+standard acc: 62.500%,adv acc: 42.969%
+epoch: 12, iter: 4500,lr=0.01, spent 16.23s,tr_loss: 1.463
+standard acc: 57.812%,adv acc: 42.969%
+epoch: 12, iter: 4600,lr=0.01, spent 24.50s,tr_loss: 1.577
+standard acc: 60.938%,adv acc: 46.094%
+
+==================== evaluation at epoch: 12 iteration: 4692 ====================
+test acc: 43.250%, test adv acc: 29.805%, spent: 5.823 s
+============================ end of evaluation ============================
+
+epoch: 13, iter: 4700,lr=0.01, spent 1.00s,tr_loss: 1.426
+standard acc: 59.375%,adv acc: 45.312%
+epoch: 13, iter: 4800,lr=0.01, spent 8.39s,tr_loss: 1.588
+standard acc: 59.375%,adv acc: 42.969%
+epoch: 13, iter: 4900,lr=0.01, spent 15.75s,tr_loss: 1.465
+standard acc: 58.594%,adv acc: 42.969%
+epoch: 13, iter: 5000,lr=0.01, spent 23.13s,tr_loss: 1.632
+standard acc: 52.344%,adv acc: 38.281%
+
+==================== evaluation at epoch: 13 iteration: 5083 ====================
+test acc: 43.406%, test adv acc: 30.219%, spent: 6.300 s
+============================ end of evaluation ============================
+
+epoch: 14, iter: 5100,lr=0.01, spent 1.95s,tr_loss: 1.390
+standard acc: 62.500%,adv acc: 46.875%
+epoch: 14, iter: 5200,lr=0.01, spent 10.22s,tr_loss: 1.636
+standard acc: 56.250%,adv acc: 37.500%
+epoch: 14, iter: 5300,lr=0.01, spent 18.35s,tr_loss: 1.572
+standard acc: 60.156%,adv acc: 42.969%
+epoch: 14, iter: 5400,lr=0.01, spent 25.76s,tr_loss: 1.560
+standard acc: 57.812%,adv acc: 39.844%
+
+==================== evaluation at epoch: 14 iteration: 5474 ====================
+test acc: 42.555%, test adv acc: 30.086%, spent: 6.047 s
+============================ end of evaluation ============================
+
+epoch: 15, iter: 5500,lr=0.01, spent 2.34s,tr_loss: 1.511
+standard acc: 62.500%,adv acc: 46.875%
+epoch: 15, iter: 5600,lr=0.01, spent 10.19s,tr_loss: 1.622
+standard acc: 60.156%,adv acc: 42.969%
+epoch: 15, iter: 5700,lr=0.01, spent 17.67s,tr_loss: 1.548
+standard acc: 55.469%,adv acc: 38.281%
+epoch: 15, iter: 5800,lr=0.01, spent 25.44s,tr_loss: 1.588
+standard acc: 59.375%,adv acc: 37.500%
+
+==================== evaluation at epoch: 15 iteration: 5865 ====================
+test acc: 43.914%, test adv acc: 31.586%, spent: 5.549 s
+============================ end of evaluation ============================
+
+epoch: 16, iter: 5900,lr=0.01, spent 2.97s,tr_loss: 1.629
+standard acc: 50.781%,adv acc: 35.938%
+epoch: 16, iter: 6000,lr=0.01, spent 11.01s,tr_loss: 1.496
+standard acc: 60.938%,adv acc: 38.281%
+epoch: 16, iter: 6100,lr=0.01, spent 18.65s,tr_loss: 1.529
+standard acc: 63.281%,adv acc: 41.406%
+epoch: 16, iter: 6200,lr=0.01, spent 26.13s,tr_loss: 1.499
+standard acc: 60.938%,adv acc: 41.406%
+
+==================== evaluation at epoch: 16 iteration: 6256 ====================
+test acc: 43.234%, test adv acc: 30.367%, spent: 5.533 s
+============================ end of evaluation ============================
+
+epoch: 17, iter: 6300,lr=0.01, spent 3.72s,tr_loss: 1.554
+standard acc: 54.688%,adv acc: 42.188%
+epoch: 17, iter: 6400,lr=0.01, spent 11.32s,tr_loss: 1.517
+standard acc: 64.062%,adv acc: 45.312%
+epoch: 17, iter: 6500,lr=0.01, spent 19.04s,tr_loss: 1.525
+standard acc: 57.812%,adv acc: 38.281%
+epoch: 17, iter: 6600,lr=0.01, spent 26.76s,tr_loss: 1.399
+standard acc: 67.188%,adv acc: 50.781%
+
+==================== evaluation at epoch: 17 iteration: 6647 ====================
+test acc: 44.188%, test adv acc: 31.031%, spent: 5.940 s
+============================ end of evaluation ============================
+
+epoch: 18, iter: 6700,lr=0.01, spent 4.43s,tr_loss: 1.429
+standard acc: 62.500%,adv acc: 50.000%
+epoch: 18, iter: 6800,lr=0.01, spent 11.97s,tr_loss: 1.585
+standard acc: 58.594%,adv acc: 39.062%
+epoch: 18, iter: 6900,lr=0.01, spent 19.58s,tr_loss: 1.444
+standard acc: 62.500%,adv acc: 42.969%
+epoch: 18, iter: 7000,lr=0.01, spent 27.16s,tr_loss: 1.416
+standard acc: 63.281%,adv acc: 41.406%
+
+==================== evaluation at epoch: 18 iteration: 7038 ====================
+test acc: 44.445%, test adv acc: 31.094%, spent: 5.650 s
+============================ end of evaluation ============================
+
+epoch: 19, iter: 7100,lr=0.01, spent 5.16s,tr_loss: 1.688
+standard acc: 56.250%,adv acc: 36.719%
+epoch: 19, iter: 7200,lr=0.01, spent 12.80s,tr_loss: 1.526
+standard acc: 56.250%,adv acc: 42.969%
+epoch: 19, iter: 7300,lr=0.01, spent 20.49s,tr_loss: 1.510
+standard acc: 59.375%,adv acc: 40.625%
+epoch: 19, iter: 7400,lr=0.01, spent 29.00s,tr_loss: 1.515
+standard acc: 62.500%,adv acc: 47.656%
+
+==================== evaluation at epoch: 19 iteration: 7429 ====================
+test acc: 44.734%, test adv acc: 31.266%, spent: 7.016 s
+============================ end of evaluation ============================
+
+epoch: 20, iter: 7500,lr=0.01, spent 9.13s,tr_loss: 1.647
+standard acc: 57.031%,adv acc: 39.844%
+epoch: 20, iter: 7600,lr=0.01, spent 18.40s,tr_loss: 1.513
+standard acc: 62.500%,adv acc: 41.406%
+epoch: 20, iter: 7700,lr=0.01, spent 27.75s,tr_loss: 1.448
+standard acc: 63.281%,adv acc: 45.312%
+epoch: 20, iter: 7800,lr=0.01, spent 37.84s,tr_loss: 1.512
+standard acc: 59.375%,adv acc: 40.625%
+
+==================== evaluation at epoch: 20 iteration: 7820 ====================
+test acc: 44.508%, test adv acc: 30.875%, spent: 6.054 s
+============================ end of evaluation ============================
+
+epoch: 21, iter: 7900,lr=0.01, spent 6.71s,tr_loss: 1.418
+standard acc: 67.969%,adv acc: 51.562%
+epoch: 21, iter: 8000,lr=0.01, spent 16.38s,tr_loss: 1.496
+standard acc: 64.844%,adv acc: 42.188%
+epoch: 21, iter: 8100,lr=0.01, spent 26.22s,tr_loss: 1.544
+standard acc: 64.062%,adv acc: 39.062%
+epoch: 21, iter: 8200,lr=0.01, spent 35.00s,tr_loss: 1.485
+standard acc: 64.062%,adv acc: 40.625%
+
+==================== evaluation at epoch: 21 iteration: 8211 ====================
+test acc: 45.672%, test adv acc: 31.109%, spent: 5.683 s
+============================ end of evaluation ============================
+
+epoch: 22, iter: 8300,lr=0.01, spent 7.05s,tr_loss: 1.487
+standard acc: 63.281%,adv acc: 46.094%
+epoch: 22, iter: 8400,lr=0.01, spent 14.78s,tr_loss: 1.482
+standard acc: 65.625%,adv acc: 47.656%
+epoch: 22, iter: 8500,lr=0.01, spent 23.70s,tr_loss: 1.494
+standard acc: 64.844%,adv acc: 42.188%
+epoch: 22, iter: 8600,lr=0.01, spent 32.54s,tr_loss: 1.485
+standard acc: 62.500%,adv acc: 42.188%
+
+==================== evaluation at epoch: 22 iteration: 8602 ====================
+test acc: 45.055%, test adv acc: 30.773%, spent: 7.031 s
+============================ end of evaluation ============================
+
+epoch: 23, iter: 8700,lr=0.01, spent 7.51s,tr_loss: 1.425
+standard acc: 62.500%,adv acc: 46.875%
+epoch: 23, iter: 8800,lr=0.01, spent 15.06s,tr_loss: 1.561
+standard acc: 60.156%,adv acc: 42.188%
+epoch: 23, iter: 8900,lr=0.01, spent 22.49s,tr_loss: 1.477
+standard acc: 64.062%,adv acc: 40.625%
+
+==================== evaluation at epoch: 23 iteration: 8993 ====================
+test acc: 44.547%, test adv acc: 31.273%, spent: 5.248 s
+============================ end of evaluation ============================
+
+epoch: 24, iter: 9000,lr=0.01, spent 0.85s,tr_loss: 1.487
+standard acc: 64.844%,adv acc: 46.875%
+epoch: 24, iter: 9100,lr=0.01, spent 8.23s,tr_loss: 1.340
+standard acc: 64.844%,adv acc: 46.094%
+epoch: 24, iter: 9200,lr=0.01, spent 15.54s,tr_loss: 1.496
+standard acc: 64.062%,adv acc: 46.875%
+epoch: 24, iter: 9300,lr=0.01, spent 22.97s,tr_loss: 1.486
+standard acc: 57.031%,adv acc: 43.750%
+
+==================== evaluation at epoch: 24 iteration: 9384 ====================
+test acc: 45.133%, test adv acc: 31.289%, spent: 5.352 s
+============================ end of evaluation ============================
+
+epoch: 25, iter: 9400,lr=0.01, spent 1.51s,tr_loss: 1.398
+standard acc: 65.625%,adv acc: 49.219%
+epoch: 25, iter: 9500,lr=0.01, spent 9.18s,tr_loss: 1.516
+standard acc: 61.719%,adv acc: 43.750%
+epoch: 25, iter: 9600,lr=0.01, spent 16.62s,tr_loss: 1.645
+standard acc: 60.156%,adv acc: 39.844%
+epoch: 25, iter: 9700,lr=0.01, spent 23.99s,tr_loss: 1.485
+standard acc: 63.281%,adv acc: 47.656%
+
+==================== evaluation at epoch: 25 iteration: 9775 ====================
+test acc: 44.586%, test adv acc: 30.945%, spent: 5.685 s
+============================ end of evaluation ============================
+
+epoch: 26, iter: 9800,lr=0.01, spent 2.37s,tr_loss: 1.454
+standard acc: 65.625%,adv acc: 42.188%
+epoch: 26, iter: 9900,lr=0.01, spent 12.57s,tr_loss: 1.616
+standard acc: 54.688%,adv acc: 38.281%
+epoch: 26, iter: 10000,lr=0.01, spent 21.74s,tr_loss: 1.580
+standard acc: 56.250%,adv acc: 41.406%
+epoch: 26, iter: 10100,lr=0.01, spent 30.60s,tr_loss: 1.459
+standard acc: 65.625%,adv acc: 46.094%
+
+==================== evaluation at epoch: 26 iteration: 10166 ====================
+test acc: 45.391%, test adv acc: 31.750%, spent: 5.534 s
+============================ end of evaluation ============================
+
+epoch: 27, iter: 10200,lr=0.01, spent 3.58s,tr_loss: 1.538
+standard acc: 59.375%,adv acc: 41.406%
+epoch: 27, iter: 10300,lr=0.01, spent 11.48s,tr_loss: 1.490
+standard acc: 62.500%,adv acc: 41.406%
+epoch: 27, iter: 10400,lr=0.01, spent 18.80s,tr_loss: 1.582
+standard acc: 64.062%,adv acc: 42.188%
+epoch: 27, iter: 10500,lr=0.01, spent 26.26s,tr_loss: 1.524
+standard acc: 66.406%,adv acc: 47.656%
+
+==================== evaluation at epoch: 27 iteration: 10557 ====================
+test acc: 46.109%, test adv acc: 31.336%, spent: 5.531 s
+============================ end of evaluation ============================
+
+epoch: 28, iter: 10600,lr=0.01, spent 3.85s,tr_loss: 1.529
+standard acc: 61.719%,adv acc: 45.312%
+epoch: 28, iter: 10700,lr=0.01, spent 11.88s,tr_loss: 1.477
+standard acc: 60.938%,adv acc: 45.312%
+epoch: 28, iter: 10800,lr=0.01, spent 19.58s,tr_loss: 1.281
+standard acc: 74.219%,adv acc: 54.688%
+epoch: 28, iter: 10900,lr=0.01, spent 27.53s,tr_loss: 1.517
+standard acc: 62.500%,adv acc: 41.406%
+
+==================== evaluation at epoch: 28 iteration: 10948 ====================
+test acc: 45.094%, test adv acc: 31.938%, spent: 5.371 s
+============================ end of evaluation ============================
+
+epoch: 29, iter: 11000,lr=0.01, spent 4.21s,tr_loss: 1.294
+standard acc: 69.531%,adv acc: 56.250%
+epoch: 29, iter: 11100,lr=0.01, spent 11.54s,tr_loss: 1.424
+standard acc: 59.375%,adv acc: 43.750%
+epoch: 29, iter: 11200,lr=0.01, spent 18.94s,tr_loss: 1.575
+standard acc: 64.062%,adv acc: 41.406%
+epoch: 29, iter: 11300,lr=0.01, spent 26.28s,tr_loss: 1.576
+standard acc: 61.719%,adv acc: 45.312%
+
+==================== evaluation at epoch: 29 iteration: 11339 ====================
+test acc: 45.547%, test adv acc: 30.781%, spent: 5.131 s
+============================ end of evaluation ============================
+
+epoch: 30, iter: 11400,lr=0.01, spent 4.77s,tr_loss: 1.474
+standard acc: 61.719%,adv acc: 45.312%
+epoch: 30, iter: 11500,lr=0.01, spent 12.28s,tr_loss: 1.396
+standard acc: 67.188%,adv acc: 46.875%
+epoch: 30, iter: 11600,lr=0.01, spent 20.09s,tr_loss: 1.420
+standard acc: 68.750%,adv acc: 49.219%
+epoch: 30, iter: 11700,lr=0.01, spent 27.83s,tr_loss: 1.377
+standard acc: 67.969%,adv acc: 46.094%
+
+==================== evaluation at epoch: 30 iteration: 11730 ====================
+test acc: 45.516%, test adv acc: 31.719%, spent: 5.322 s
+============================ end of evaluation ============================
+
+epoch: 31, iter: 11800,lr=0.01, spent 5.47s,tr_loss: 1.396
+standard acc: 66.406%,adv acc: 44.531%
+epoch: 31, iter: 11900,lr=0.01, spent 12.85s,tr_loss: 1.631
+standard acc: 57.031%,adv acc: 36.719%
+epoch: 31, iter: 12000,lr=0.01, spent 20.31s,tr_loss: 1.447
+standard acc: 66.406%,adv acc: 50.000%
+epoch: 31, iter: 12100,lr=0.01, spent 27.62s,tr_loss: 1.408
+standard acc: 71.094%,adv acc: 49.219%
+
+==================== evaluation at epoch: 31 iteration: 12121 ====================
+test acc: 45.055%, test adv acc: 30.828%, spent: 5.318 s
+============================ end of evaluation ============================
+
+epoch: 32, iter: 12200,lr=0.01, spent 6.09s,tr_loss: 1.481
+standard acc: 69.531%,adv acc: 47.656%
+epoch: 32, iter: 12300,lr=0.01, spent 13.38s,tr_loss: 1.437
+standard acc: 68.750%,adv acc: 46.875%
+epoch: 32, iter: 12400,lr=0.01, spent 20.78s,tr_loss: 1.451
+standard acc: 64.844%,adv acc: 43.750%
+epoch: 32, iter: 12500,lr=0.01, spent 28.42s,tr_loss: 1.539
+standard acc: 57.031%,adv acc: 41.406%
+
+==================== evaluation at epoch: 32 iteration: 12512 ====================
+test acc: 45.281%, test adv acc: 31.656%, spent: 5.144 s
+============================ end of evaluation ============================
+
+epoch: 33, iter: 12600,lr=0.01, spent 6.71s,tr_loss: 1.404
+standard acc: 68.750%,adv acc: 51.562%
+epoch: 33, iter: 12700,lr=0.01, spent 14.05s,tr_loss: 1.425
+standard acc: 65.625%,adv acc: 45.312%
+epoch: 33, iter: 12800,lr=0.01, spent 21.32s,tr_loss: 1.495
+standard acc: 61.719%,adv acc: 46.875%
+epoch: 33, iter: 12900,lr=0.01, spent 28.62s,tr_loss: 1.556
+standard acc: 61.719%,adv acc: 42.188%
+
+==================== evaluation at epoch: 33 iteration: 12903 ====================
+test acc: 45.797%, test adv acc: 31.078%, spent: 5.269 s
+============================ end of evaluation ============================
+
+epoch: 34, iter: 13000,lr=0.01, spent 7.53s,tr_loss: 1.515
+standard acc: 66.406%,adv acc: 42.969%
+epoch: 34, iter: 13100,lr=0.01, spent 15.02s,tr_loss: 1.444
+standard acc: 68.750%,adv acc: 42.969%
+epoch: 34, iter: 13200,lr=0.01, spent 22.37s,tr_loss: 1.455
+standard acc: 63.281%,adv acc: 46.094%
+
+==================== evaluation at epoch: 34 iteration: 13294 ====================
+test acc: 45.086%, test adv acc: 31.328%, spent: 5.629 s
+============================ end of evaluation ============================
+
+epoch: 35, iter: 13300,lr=0.01, spent 0.80s,tr_loss: 1.538
+standard acc: 60.938%,adv acc: 40.625%
+epoch: 35, iter: 13400,lr=0.01, spent 8.53s,tr_loss: 1.372
+standard acc: 73.438%,adv acc: 50.000%
+epoch: 35, iter: 13500,lr=0.01, spent 16.23s,tr_loss: 1.385
+standard acc: 67.969%,adv acc: 46.094%
+epoch: 35, iter: 13600,lr=0.01, spent 24.77s,tr_loss: 1.497
+standard acc: 65.625%,adv acc: 43.750%
+
+==================== evaluation at epoch: 35 iteration: 13685 ====================
+test acc: 46.234%, test adv acc: 31.219%, spent: 8.647 s
+============================ end of evaluation ============================
+
+epoch: 36, iter: 13700,lr=0.01, spent 2.42s,tr_loss: 1.337
+standard acc: 67.969%,adv acc: 48.438%
+epoch: 36, iter: 13800,lr=0.01, spent 12.69s,tr_loss: 1.487
+standard acc: 62.500%,adv acc: 45.312%
+epoch: 36, iter: 13900,lr=0.01, spent 20.05s,tr_loss: 1.397
+standard acc: 64.062%,adv acc: 45.312%
+epoch: 36, iter: 14000,lr=0.01, spent 27.52s,tr_loss: 1.469
+standard acc: 64.062%,adv acc: 42.969%
+
+==================== evaluation at epoch: 36 iteration: 14076 ====================
+test acc: 46.328%, test adv acc: 31.438%, spent: 5.336 s
+============================ end of evaluation ============================
+
+epoch: 37, iter: 14100,lr=0.01, spent 2.26s,tr_loss: 1.472
+standard acc: 61.719%,adv acc: 42.188%
+epoch: 37, iter: 14200,lr=0.01, spent 9.69s,tr_loss: 1.451
+standard acc: 65.625%,adv acc: 44.531%
+epoch: 37, iter: 14300,lr=0.01, spent 17.17s,tr_loss: 1.400
+standard acc: 63.281%,adv acc: 41.406%
+epoch: 37, iter: 14400,lr=0.01, spent 25.43s,tr_loss: 1.440
+standard acc: 60.938%,adv acc: 45.312%
+
+==================== evaluation at epoch: 37 iteration: 14467 ====================
+test acc: 45.461%, test adv acc: 30.469%, spent: 5.226 s
+============================ end of evaluation ============================
+
+epoch: 38, iter: 14500,lr=0.01, spent 2.74s,tr_loss: 1.350
+standard acc: 64.062%,adv acc: 46.875%
+epoch: 38, iter: 14600,lr=0.01, spent 10.12s,tr_loss: 1.565
+standard acc: 62.500%,adv acc: 41.406%
+epoch: 38, iter: 14700,lr=0.01, spent 17.91s,tr_loss: 1.507
+standard acc: 60.156%,adv acc: 40.625%
+epoch: 38, iter: 14800,lr=0.01, spent 27.51s,tr_loss: 1.452
+standard acc: 62.500%,adv acc: 49.219%
+
+==================== evaluation at epoch: 38 iteration: 14858 ====================
+test acc: 46.547%, test adv acc: 31.289%, spent: 6.435 s
+============================ end of evaluation ============================
+
+epoch: 39, iter: 14900,lr=0.01, spent 3.91s,tr_loss: 1.442
+standard acc: 65.625%,adv acc: 46.875%
+epoch: 39, iter: 15000,lr=0.01, spent 12.19s,tr_loss: 1.442
+standard acc: 62.500%,adv acc: 47.656%
+epoch: 39, iter: 15100,lr=0.01, spent 20.30s,tr_loss: 1.551
+standard acc: 61.719%,adv acc: 42.188%
+epoch: 39, iter: 15200,lr=0.01, spent 29.33s,tr_loss: 1.594
+standard acc: 60.156%,adv acc: 40.625%
+
+==================== evaluation at epoch: 39 iteration: 15249 ====================
+test acc: 45.125%, test adv acc: 30.906%, spent: 7.564 s
+============================ end of evaluation ============================
+
+epoch: 40, iter: 15300,lr=0.01, spent 5.40s,tr_loss: 1.422
+standard acc: 62.500%,adv acc: 44.531%
+epoch: 40, iter: 15400,lr=0.01, spent 14.43s,tr_loss: 1.468
+standard acc: 62.500%,adv acc: 46.094%
+epoch: 40, iter: 15500,lr=0.01, spent 22.58s,tr_loss: 1.446
+standard acc: 61.719%,adv acc: 43.750%
+epoch: 40, iter: 15600,lr=0.01, spent 30.22s,tr_loss: 1.353
+standard acc: 67.969%,adv acc: 48.438%
+
+==================== evaluation at epoch: 40 iteration: 15640 ====================
+test acc: 45.711%, test adv acc: 30.961%, spent: 5.271 s
+============================ end of evaluation ============================
+
+epoch: 41, iter: 15700,lr=0.01, spent 4.93s,tr_loss: 1.364
+standard acc: 65.625%,adv acc: 46.094%
+epoch: 41, iter: 15800,lr=0.01, spent 12.69s,tr_loss: 1.357
+standard acc: 67.969%,adv acc: 52.344%
+epoch: 41, iter: 15900,lr=0.01, spent 20.37s,tr_loss: 1.451
+standard acc: 60.938%,adv acc: 38.281%
+epoch: 41, iter: 16000,lr=0.01, spent 28.06s,tr_loss: 1.585
+standard acc: 62.500%,adv acc: 41.406%
+
+==================== evaluation at epoch: 41 iteration: 16031 ====================
+test acc: 45.320%, test adv acc: 31.367%, spent: 5.255 s
+============================ end of evaluation ============================
+
+epoch: 42, iter: 16100,lr=0.01, spent 5.90s,tr_loss: 1.478
+standard acc: 64.844%,adv acc: 46.094%
+epoch: 42, iter: 16200,lr=0.01, spent 13.54s,tr_loss: 1.285
+standard acc: 75.000%,adv acc: 57.812%
+epoch: 42, iter: 16300,lr=0.01, spent 22.18s,tr_loss: 1.370
+standard acc: 72.656%,adv acc: 55.469%
+epoch: 42, iter: 16400,lr=0.01, spent 29.93s,tr_loss: 1.432
+standard acc: 67.188%,adv acc: 47.656%
+
+==================== evaluation at epoch: 42 iteration: 16422 ====================
+test acc: 45.438%, test adv acc: 31.195%, spent: 5.630 s
+============================ end of evaluation ============================
+
+epoch: 43, iter: 16500,lr=0.01, spent 6.24s,tr_loss: 1.274
+standard acc: 71.094%,adv acc: 50.781%
+epoch: 43, iter: 16600,lr=0.01, spent 14.20s,tr_loss: 1.393
+standard acc: 64.844%,adv acc: 47.656%
+epoch: 43, iter: 16700,lr=0.01, spent 22.09s,tr_loss: 1.433
+standard acc: 64.062%,adv acc: 47.656%
+epoch: 43, iter: 16800,lr=0.01, spent 28.32s,tr_loss: 1.507
+standard acc: 67.969%,adv acc: 47.656%
+
+==================== evaluation at epoch: 43 iteration: 16813 ====================
+test acc: 45.703%, test adv acc: 30.461%, spent: 4.222 s
+============================ end of evaluation ============================
+
+epoch: 44, iter: 16900,lr=0.01, spent 5.40s,tr_loss: 1.404
+standard acc: 67.188%,adv acc: 46.875%
+epoch: 44, iter: 17000,lr=0.01, spent 10.76s,tr_loss: 1.299
+standard acc: 71.875%,adv acc: 51.562%
+epoch: 44, iter: 17100,lr=0.01, spent 16.51s,tr_loss: 1.437
+standard acc: 61.719%,adv acc: 48.438%
+epoch: 44, iter: 17200,lr=0.01, spent 22.66s,tr_loss: 1.282
+standard acc: 70.312%,adv acc: 50.781%
+
+==================== evaluation at epoch: 44 iteration: 17204 ====================
+test acc: 45.883%, test adv acc: 31.031%, spent: 4.000 s
+============================ end of evaluation ============================
+
+epoch: 45, iter: 17300,lr=0.01, spent 5.82s,tr_loss: 1.334
+standard acc: 71.094%,adv acc: 47.656%
+epoch: 45, iter: 17400,lr=0.01, spent 11.42s,tr_loss: 1.474
+standard acc: 65.625%,adv acc: 41.406%
+epoch: 45, iter: 17500,lr=0.01, spent 17.07s,tr_loss: 1.402
+standard acc: 67.188%,adv acc: 46.094%
+
+==================== evaluation at epoch: 45 iteration: 17595 ====================
+test acc: 46.539%, test adv acc: 31.438%, spent: 5.628 s
+============================ end of evaluation ============================
+
+epoch: 46, iter: 17600,lr=0.01, spent 0.69s,tr_loss: 1.248
+standard acc: 76.562%,adv acc: 57.031%
+epoch: 46, iter: 17700,lr=0.01, spent 8.49s,tr_loss: 1.416
+standard acc: 69.531%,adv acc: 50.000%
+epoch: 46, iter: 17800,lr=0.01, spent 16.34s,tr_loss: 1.465
+standard acc: 64.844%,adv acc: 44.531%
+epoch: 46, iter: 17900,lr=0.01, spent 24.57s,tr_loss: 1.520
+standard acc: 61.719%,adv acc: 45.312%
+
+==================== evaluation at epoch: 46 iteration: 17986 ====================
+test acc: 46.125%, test adv acc: 30.797%, spent: 5.604 s
+============================ end of evaluation ============================
+
+epoch: 47, iter: 18000,lr=0.01, spent 1.51s,tr_loss: 1.344
+standard acc: 69.531%,adv acc: 48.438%
+epoch: 47, iter: 18100,lr=0.01, spent 9.16s,tr_loss: 1.442
+standard acc: 65.625%,adv acc: 39.844%
+epoch: 47, iter: 18200,lr=0.01, spent 17.09s,tr_loss: 1.309
+standard acc: 67.969%,adv acc: 47.656%
+epoch: 47, iter: 18300,lr=0.01, spent 24.94s,tr_loss: 1.526
+standard acc: 64.844%,adv acc: 40.625%
+
+==================== evaluation at epoch: 47 iteration: 18377 ====================
+test acc: 45.930%, test adv acc: 30.812%, spent: 6.022 s
+============================ end of evaluation ============================
+
+epoch: 48, iter: 18400,lr=0.01, spent 2.11s,tr_loss: 1.406
+standard acc: 64.062%,adv acc: 47.656%
+epoch: 48, iter: 18500,lr=0.01, spent 10.20s,tr_loss: 1.364
+standard acc: 73.438%,adv acc: 51.562%
+epoch: 48, iter: 18600,lr=0.01, spent 18.19s,tr_loss: 1.340
+standard acc: 68.750%,adv acc: 50.000%
+epoch: 48, iter: 18700,lr=0.01, spent 26.38s,tr_loss: 1.545
+standard acc: 65.625%,adv acc: 45.312%
+
+==================== evaluation at epoch: 48 iteration: 18768 ====================
+test acc: 46.000%, test adv acc: 30.664%, spent: 5.697 s
+============================ end of evaluation ============================
+
+epoch: 49, iter: 18800,lr=0.01, spent 2.81s,tr_loss: 1.468
+standard acc: 64.844%,adv acc: 36.719%
+epoch: 49, iter: 18900,lr=0.01, spent 10.92s,tr_loss: 1.543
+standard acc: 61.719%,adv acc: 39.844%
+epoch: 49, iter: 19000,lr=0.01, spent 18.59s,tr_loss: 1.319
+standard acc: 67.969%,adv acc: 46.094%
+epoch: 49, iter: 19100,lr=0.01, spent 26.10s,tr_loss: 1.343
+standard acc: 72.656%,adv acc: 48.438%
+
+==================== evaluation at epoch: 49 iteration: 19159 ====================
+test acc: 46.156%, test adv acc: 30.688%, spent: 5.668 s
+============================ end of evaluation ============================
+
+epoch: 50, iter: 19200,lr=0.01, spent 3.49s,tr_loss: 1.446
+standard acc: 69.531%,adv acc: 46.094%
+epoch: 50, iter: 19300,lr=0.01, spent 11.04s,tr_loss: 1.338
+standard acc: 71.875%,adv acc: 47.656%
+epoch: 50, iter: 19400,lr=0.01, spent 18.55s,tr_loss: 1.454
+standard acc: 67.969%,adv acc: 40.625%
+epoch: 50, iter: 19500,lr=0.01, spent 26.31s,tr_loss: 1.366
+standard acc: 70.312%,adv acc: 52.344%
+
+==================== evaluation at epoch: 50 iteration: 19550 ====================
+test acc: 46.516%, test adv acc: 31.445%, spent: 5.070 s
+============================ end of evaluation ============================
+
+epoch: 51, iter: 19600,lr=0.01, spent 4.24s,tr_loss: 1.481
+standard acc: 68.750%,adv acc: 46.875%
+epoch: 51, iter: 19700,lr=0.01, spent 11.81s,tr_loss: 1.322
+standard acc: 71.094%,adv acc: 53.125%
+epoch: 51, iter: 19800,lr=0.01, spent 19.27s,tr_loss: 1.532
+standard acc: 60.938%,adv acc: 39.062%
+epoch: 51, iter: 19900,lr=0.01, spent 26.98s,tr_loss: 1.390
+standard acc: 72.656%,adv acc: 53.125%
+
+==================== evaluation at epoch: 51 iteration: 19941 ====================
+test acc: 46.750%, test adv acc: 31.055%, spent: 5.465 s
+============================ end of evaluation ============================
+
+epoch: 52, iter: 20000,lr=0.01, spent 4.82s,tr_loss: 1.404
+standard acc: 70.312%,adv acc: 45.312%
+epoch: 52, iter: 20100,lr=0.01, spent 12.94s,tr_loss: 1.506
+standard acc: 57.812%,adv acc: 40.625%
+epoch: 52, iter: 20200,lr=0.01, spent 21.46s,tr_loss: 1.382
+standard acc: 71.875%,adv acc: 51.562%
+epoch: 52, iter: 20300,lr=0.01, spent 29.83s,tr_loss: 1.360
+standard acc: 67.188%,adv acc: 53.906%
+
+==================== evaluation at epoch: 52 iteration: 20332 ====================
+test acc: 45.891%, test adv acc: 30.852%, spent: 5.578 s
+============================ end of evaluation ============================
+
+epoch: 53, iter: 20400,lr=0.01, spent 5.33s,tr_loss: 1.253
+standard acc: 75.000%,adv acc: 54.688%
+epoch: 53, iter: 20500,lr=0.01, spent 13.20s,tr_loss: 1.391
+standard acc: 66.406%,adv acc: 47.656%
+epoch: 53, iter: 20600,lr=0.01, spent 20.89s,tr_loss: 1.301
+standard acc: 69.531%,adv acc: 50.000%
+epoch: 53, iter: 20700,lr=0.01, spent 28.75s,tr_loss: 1.254
+standard acc: 72.656%,adv acc: 50.781%
+
+==================== evaluation at epoch: 53 iteration: 20723 ====================
+test acc: 45.883%, test adv acc: 31.406%, spent: 5.503 s
+============================ end of evaluation ============================
+
+epoch: 54, iter: 20800,lr=0.01, spent 6.55s,tr_loss: 1.342
+standard acc: 67.188%,adv acc: 51.562%
+epoch: 54, iter: 20900,lr=0.01, spent 15.07s,tr_loss: 1.284
+standard acc: 71.875%,adv acc: 52.344%
+epoch: 54, iter: 21000,lr=0.01, spent 22.67s,tr_loss: 1.437
+standard acc: 61.719%,adv acc: 40.625%
+epoch: 54, iter: 21100,lr=0.01, spent 29.67s,tr_loss: 1.397
+standard acc: 66.406%,adv acc: 46.094%
+
+==================== evaluation at epoch: 54 iteration: 21114 ====================
+test acc: 46.180%, test adv acc: 31.094%, spent: 5.157 s
+============================ end of evaluation ============================
+
+epoch: 55, iter: 21200,lr=0.01, spent 6.75s,tr_loss: 1.149
+standard acc: 78.906%,adv acc: 53.125%
+epoch: 55, iter: 21300,lr=0.01, spent 14.41s,tr_loss: 1.442
+standard acc: 67.188%,adv acc: 46.875%
+epoch: 55, iter: 21400,lr=0.01, spent 22.51s,tr_loss: 1.494
+standard acc: 64.844%,adv acc: 46.875%
+epoch: 55, iter: 21500,lr=0.01, spent 30.46s,tr_loss: 1.336
+standard acc: 75.000%,adv acc: 48.438%
+
+==================== evaluation at epoch: 55 iteration: 21505 ====================
+test acc: 46.102%, test adv acc: 31.164%, spent: 5.366 s
+============================ end of evaluation ============================
+
+epoch: 56, iter: 21600,lr=0.01, spent 7.43s,tr_loss: 1.317
+standard acc: 66.406%,adv acc: 44.531%
+epoch: 56, iter: 21700,lr=0.01, spent 14.79s,tr_loss: 1.406
+standard acc: 67.969%,adv acc: 44.531%
+epoch: 56, iter: 21800,lr=0.01, spent 22.13s,tr_loss: 1.377
+standard acc: 67.969%,adv acc: 47.656%
+
+==================== evaluation at epoch: 56 iteration: 21896 ====================
+test acc: 45.828%, test adv acc: 30.117%, spent: 6.162 s
+============================ end of evaluation ============================
+
+epoch: 57, iter: 21900,lr=0.01, spent 0.82s,tr_loss: 1.489
+standard acc: 64.062%,adv acc: 41.406%
+epoch: 57, iter: 22000,lr=0.01, spent 8.34s,tr_loss: 1.377
+standard acc: 68.750%,adv acc: 42.969%
+epoch: 57, iter: 22100,lr=0.01, spent 16.05s,tr_loss: 1.405
+standard acc: 70.312%,adv acc: 44.531%
+epoch: 57, iter: 22200,lr=0.01, spent 24.02s,tr_loss: 1.466
+standard acc: 64.844%,adv acc: 44.531%
+
+==================== evaluation at epoch: 57 iteration: 22287 ====================
+test acc: 46.117%, test adv acc: 30.734%, spent: 6.970 s
+============================ end of evaluation ============================
+
+epoch: 58, iter: 22300,lr=0.01, spent 1.55s,tr_loss: 1.561
+standard acc: 67.969%,adv acc: 38.281%
+epoch: 58, iter: 22400,lr=0.01, spent 10.53s,tr_loss: 1.464
+standard acc: 65.625%,adv acc: 42.969%
+epoch: 58, iter: 22500,lr=0.01, spent 20.05s,tr_loss: 1.420
+standard acc: 64.844%,adv acc: 46.875%
+epoch: 58, iter: 22600,lr=0.01, spent 29.46s,tr_loss: 1.406
+standard acc: 64.062%,adv acc: 43.750%
+
+==================== evaluation at epoch: 58 iteration: 22678 ====================
+test acc: 46.273%, test adv acc: 30.727%, spent: 7.519 s
+============================ end of evaluation ============================
+
+epoch: 59, iter: 22700,lr=0.01, spent 1.99s,tr_loss: 1.464
+standard acc: 65.625%,adv acc: 44.531%
+epoch: 59, iter: 22800,lr=0.01, spent 10.86s,tr_loss: 1.451
+standard acc: 68.750%,adv acc: 46.094%
+epoch: 59, iter: 22900,lr=0.01, spent 23.48s,tr_loss: 1.433
+standard acc: 70.312%,adv acc: 50.781%
+epoch: 59, iter: 23000,lr=0.01, spent 31.55s,tr_loss: 1.415
+standard acc: 66.406%,adv acc: 42.969%
+
+==================== evaluation at epoch: 59 iteration: 23069 ====================
+test acc: 46.250%, test adv acc: 30.109%, spent: 5.839 s
+============================ end of evaluation ============================
+
+epoch: 60, iter: 23100,lr=0.01, spent 3.06s,tr_loss: 1.459
+standard acc: 66.406%,adv acc: 42.188%
+epoch: 60, iter: 23200,lr=0.01, spent 10.69s,tr_loss: 1.332
+standard acc: 69.531%,adv acc: 51.562%
+epoch: 60, iter: 23300,lr=0.01, spent 19.89s,tr_loss: 1.450
+standard acc: 67.969%,adv acc: 44.531%
+epoch: 60, iter: 23400,lr=0.01, spent 28.95s,tr_loss: 1.473
+standard acc: 68.750%,adv acc: 42.969%
+
+==================== evaluation at epoch: 60 iteration: 23460 ====================
+test acc: 45.523%, test adv acc: 29.742%, spent: 6.971 s
+============================ end of evaluation ============================
+
+epoch: 61, iter: 23500,lr=0.01, spent 4.83s,tr_loss: 1.374
+standard acc: 67.969%,adv acc: 44.531%
+epoch: 61, iter: 23600,lr=0.01, spent 14.64s,tr_loss: 1.388
+standard acc: 73.438%,adv acc: 44.531%
+epoch: 61, iter: 23700,lr=0.01, spent 22.04s,tr_loss: 1.375
+standard acc: 67.188%,adv acc: 44.531%
+epoch: 61, iter: 23800,lr=0.01, spent 29.61s,tr_loss: 1.515
+standard acc: 67.969%,adv acc: 40.625%
+
+==================== evaluation at epoch: 61 iteration: 23851 ====================
+test acc: 46.445%, test adv acc: 31.312%, spent: 6.381 s
+============================ end of evaluation ============================
+
+epoch: 62, iter: 23900,lr=0.01, spent 4.02s,tr_loss: 1.411
+standard acc: 71.094%,adv acc: 46.094%
+epoch: 62, iter: 24000,lr=0.01, spent 11.95s,tr_loss: 1.474
+standard acc: 66.406%,adv acc: 47.656%
+epoch: 62, iter: 24100,lr=0.01, spent 20.51s,tr_loss: 1.428
+standard acc: 70.312%,adv acc: 50.781%
+epoch: 62, iter: 24200,lr=0.01, spent 28.45s,tr_loss: 1.466
+standard acc: 67.188%,adv acc: 46.094%
+
+==================== evaluation at epoch: 62 iteration: 24242 ====================
+test acc: 46.500%, test adv acc: 30.961%, spent: 5.870 s
+============================ end of evaluation ============================
+
+epoch: 63, iter: 24300,lr=0.01, spent 5.44s,tr_loss: 1.374
+standard acc: 73.438%,adv acc: 52.344%
+epoch: 63, iter: 24400,lr=0.01, spent 13.97s,tr_loss: 1.631
+standard acc: 62.500%,adv acc: 33.594%
+epoch: 63, iter: 24500,lr=0.01, spent 23.16s,tr_loss: 1.414
+standard acc: 67.969%,adv acc: 50.781%
+epoch: 63, iter: 24600,lr=0.01, spent 30.63s,tr_loss: 1.284
+standard acc: 69.531%,adv acc: 50.781%
+
+==================== evaluation at epoch: 63 iteration: 24633 ====================
+test acc: 46.438%, test adv acc: 31.539%, spent: 5.814 s
+============================ end of evaluation ============================
+
+epoch: 64, iter: 24700,lr=0.01, spent 6.64s,tr_loss: 1.318
+standard acc: 67.969%,adv acc: 47.656%
+epoch: 64, iter: 24800,lr=0.01, spent 14.01s,tr_loss: 1.497
+standard acc: 64.844%,adv acc: 42.188%
+epoch: 64, iter: 24900,lr=0.01, spent 22.34s,tr_loss: 1.505
+standard acc: 73.438%,adv acc: 46.875%
+epoch: 64, iter: 25000,lr=0.01, spent 30.29s,tr_loss: 1.429
+standard acc: 64.844%,adv acc: 44.531%
+
+==================== evaluation at epoch: 64 iteration: 25024 ====================
+test acc: 46.062%, test adv acc: 31.578%, spent: 5.966 s
+============================ end of evaluation ============================
+
+epoch: 65, iter: 25100,lr=0.01, spent 7.64s,tr_loss: 1.450
+standard acc: 65.625%,adv acc: 45.312%
+epoch: 65, iter: 25200,lr=0.01, spent 17.71s,tr_loss: 1.420
+standard acc: 65.625%,adv acc: 45.312%
+epoch: 65, iter: 25300,lr=0.01, spent 26.57s,tr_loss: 1.539
+standard acc: 67.188%,adv acc: 46.875%
+epoch: 65, iter: 25400,lr=0.01, spent 35.61s,tr_loss: 1.543
+standard acc: 59.375%,adv acc: 40.625%
+
+==================== evaluation at epoch: 65 iteration: 25415 ====================
+test acc: 46.156%, test adv acc: 31.414%, spent: 6.513 s
+============================ end of evaluation ============================
+
+epoch: 66, iter: 25500,lr=0.01, spent 7.74s,tr_loss: 1.398
+standard acc: 67.969%,adv acc: 44.531%
+epoch: 66, iter: 25600,lr=0.01, spent 16.34s,tr_loss: 1.250
+standard acc: 76.562%,adv acc: 55.469%
+epoch: 66, iter: 25700,lr=0.01, spent 24.73s,tr_loss: 1.474
+standard acc: 66.406%,adv acc: 41.406%
+epoch: 66, iter: 25800,lr=0.01, spent 35.65s,tr_loss: 1.433
+standard acc: 65.625%,adv acc: 48.438%
+
+==================== evaluation at epoch: 66 iteration: 25806 ====================
+test acc: 45.156%, test adv acc: 30.031%, spent: 5.877 s
+============================ end of evaluation ============================
+
+epoch: 67, iter: 25900,lr=0.01, spent 7.71s,tr_loss: 1.441
+standard acc: 62.500%,adv acc: 42.188%
+epoch: 67, iter: 26000,lr=0.01, spent 16.27s,tr_loss: 1.398
+standard acc: 67.188%,adv acc: 45.312%
+epoch: 67, iter: 26100,lr=0.01, spent 25.07s,tr_loss: 1.452
+standard acc: 62.500%,adv acc: 44.531%
+
+==================== evaluation at epoch: 67 iteration: 26197 ====================
+test acc: 45.883%, test adv acc: 30.891%, spent: 5.737 s
+============================ end of evaluation ============================
+
+epoch: 68, iter: 26200,lr=0.01, spent 0.53s,tr_loss: 1.334
+standard acc: 72.656%,adv acc: 51.562%
+epoch: 68, iter: 26300,lr=0.01, spent 9.11s,tr_loss: 1.352
+standard acc: 72.656%,adv acc: 46.875%
+epoch: 68, iter: 26400,lr=0.01, spent 17.84s,tr_loss: 1.652
+standard acc: 59.375%,adv acc: 38.281%
+epoch: 68, iter: 26500,lr=0.01, spent 25.85s,tr_loss: 1.516
+standard acc: 59.375%,adv acc: 42.969%
+
+==================== evaluation at epoch: 68 iteration: 26588 ====================
+test acc: 45.594%, test adv acc: 30.234%, spent: 5.985 s
+============================ end of evaluation ============================
+
+epoch: 69, iter: 26600,lr=0.01, spent 1.29s,tr_loss: 1.396
+standard acc: 64.062%,adv acc: 42.969%
+epoch: 69, iter: 26700,lr=0.01, spent 8.95s,tr_loss: 1.537
+standard acc: 64.062%,adv acc: 38.281%
+epoch: 69, iter: 26800,lr=0.01, spent 16.77s,tr_loss: 1.585
+standard acc: 57.812%,adv acc: 45.312%
+epoch: 69, iter: 26900,lr=0.01, spent 25.35s,tr_loss: 1.380
+standard acc: 71.875%,adv acc: 43.750%
+
+==================== evaluation at epoch: 69 iteration: 26979 ====================
+test acc: 45.398%, test adv acc: 30.750%, spent: 6.076 s
+============================ end of evaluation ============================
+
+epoch: 70, iter: 27000,lr=0.01, spent 1.94s,tr_loss: 1.386
+standard acc: 67.969%,adv acc: 46.875%
+epoch: 70, iter: 27100,lr=0.01, spent 10.48s,tr_loss: 1.352
+standard acc: 64.062%,adv acc: 50.781%
+epoch: 70, iter: 27200,lr=0.01, spent 18.34s,tr_loss: 1.290
+standard acc: 72.656%,adv acc: 53.906%
+epoch: 70, iter: 27300,lr=0.01, spent 26.20s,tr_loss: 1.328
+standard acc: 67.969%,adv acc: 49.219%
+
+==================== evaluation at epoch: 70 iteration: 27370 ====================
+test acc: 46.328%, test adv acc: 30.414%, spent: 6.646 s
+============================ end of evaluation ============================
+
+epoch: 71, iter: 27400,lr=0.01, spent 3.04s,tr_loss: 1.315
+standard acc: 67.188%,adv acc: 48.438%
+epoch: 71, iter: 27500,lr=0.01, spent 10.77s,tr_loss: 1.360
+standard acc: 64.062%,adv acc: 46.094%
+epoch: 71, iter: 27600,lr=0.01, spent 18.75s,tr_loss: 1.305
+standard acc: 68.750%,adv acc: 51.562%
+epoch: 71, iter: 27700,lr=0.01, spent 26.64s,tr_loss: 1.407
+standard acc: 68.750%,adv acc: 42.969%
+
+==================== evaluation at epoch: 71 iteration: 27761 ====================
+test acc: 46.930%, test adv acc: 30.680%, spent: 5.279 s
+============================ end of evaluation ============================
+
+epoch: 72, iter: 27800,lr=0.01, spent 3.10s,tr_loss: 1.324
+standard acc: 74.219%,adv acc: 48.438%
+epoch: 72, iter: 27900,lr=0.01, spent 10.65s,tr_loss: 1.433
+standard acc: 66.406%,adv acc: 41.406%
+epoch: 72, iter: 28000,lr=0.01, spent 18.49s,tr_loss: 1.453
+standard acc: 66.406%,adv acc: 45.312%
+epoch: 72, iter: 28100,lr=0.01, spent 26.56s,tr_loss: 1.458
+standard acc: 63.281%,adv acc: 43.750%
+
+==================== evaluation at epoch: 72 iteration: 28152 ====================
+test acc: 45.906%, test adv acc: 30.969%, spent: 5.332 s
+============================ end of evaluation ============================
+
+epoch: 73, iter: 28200,lr=0.01, spent 4.40s,tr_loss: 1.261
+standard acc: 78.906%,adv acc: 52.344%
+epoch: 73, iter: 28300,lr=0.01, spent 11.65s,tr_loss: 1.357
+standard acc: 73.438%,adv acc: 49.219%
+epoch: 73, iter: 28400,lr=0.01, spent 19.23s,tr_loss: 1.412
+standard acc: 67.969%,adv acc: 45.312%
+epoch: 73, iter: 28500,lr=0.01, spent 26.76s,tr_loss: 1.431
+standard acc: 65.625%,adv acc: 46.094%
+
+==================== evaluation at epoch: 73 iteration: 28543 ====================
+test acc: 46.539%, test adv acc: 31.477%, spent: 5.413 s
+============================ end of evaluation ============================
+
+epoch: 74, iter: 28600,lr=0.01, spent 4.49s,tr_loss: 1.379
+standard acc: 63.281%,adv acc: 44.531%
+epoch: 74, iter: 28700,lr=0.01, spent 12.03s,tr_loss: 1.385
+standard acc: 65.625%,adv acc: 46.094%
+epoch: 74, iter: 28800,lr=0.01, spent 19.72s,tr_loss: 1.510
+standard acc: 63.281%,adv acc: 35.156%
+epoch: 74, iter: 28900,lr=0.01, spent 26.26s,tr_loss: 1.318
+standard acc: 67.969%,adv acc: 46.094%
+
+==================== evaluation at epoch: 74 iteration: 28934 ====================
+test acc: 45.906%, test adv acc: 30.586%, spent: 4.045 s
+============================ end of evaluation ============================
+
+epoch: 75, iter: 29000,lr=0.01, spent 4.01s,tr_loss: 1.339
+standard acc: 72.656%,adv acc: 47.656%
+epoch: 75, iter: 29100,lr=0.01, spent 9.53s,tr_loss: 1.147
+standard acc: 80.469%,adv acc: 54.688%
+epoch: 75, iter: 29200,lr=0.01, spent 15.16s,tr_loss: 1.345
+standard acc: 71.094%,adv acc: 51.562%
+epoch: 75, iter: 29300,lr=0.01, spent 20.83s,tr_loss: 1.361
+standard acc: 72.656%,adv acc: 50.000%
+
+==================== evaluation at epoch: 75 iteration: 29325 ====================
+test acc: 46.109%, test adv acc: 30.836%, spent: 3.981 s
+============================ end of evaluation ============================
+
+epoch: 76, iter: 29400,lr=0.01, spent 4.48s,tr_loss: 1.347
+standard acc: 69.531%,adv acc: 46.875%
+epoch: 76, iter: 29500,lr=0.01, spent 9.95s,tr_loss: 1.585
+standard acc: 62.500%,adv acc: 39.844%
+epoch: 76, iter: 29600,lr=0.01, spent 15.29s,tr_loss: 1.427
+standard acc: 67.188%,adv acc: 44.531%
+epoch: 76, iter: 29700,lr=0.01, spent 21.47s,tr_loss: 1.424
+standard acc: 70.312%,adv acc: 46.094%
+
+==================== evaluation at epoch: 76 iteration: 29716 ====================
+test acc: 45.742%, test adv acc: 29.906%, spent: 4.236 s
+============================ end of evaluation ============================
+
+epoch: 77, iter: 29800,lr=0.01, spent 4.76s,tr_loss: 1.367
+standard acc: 68.750%,adv acc: 45.312%
+epoch: 77, iter: 29900,lr=0.01, spent 10.48s,tr_loss: 1.292
+standard acc: 67.188%,adv acc: 47.656%
+epoch: 77, iter: 30000,lr=0.01, spent 16.73s,tr_loss: 1.373
+standard acc: 67.969%,adv acc: 48.438%
+epoch: 77, iter: 30100,lr=0.01, spent 27.31s,tr_loss: 1.427
+standard acc: 67.969%,adv acc: 45.312%
+
+==================== evaluation at epoch: 77 iteration: 30107 ====================
+test acc: 46.320%, test adv acc: 30.430%, spent: 4.104 s
+============================ end of evaluation ============================
+
+epoch: 78, iter: 30200,lr=0.01, spent 5.49s,tr_loss: 1.376
+standard acc: 67.969%,adv acc: 43.750%
+epoch: 78, iter: 30300,lr=0.01, spent 11.26s,tr_loss: 1.465
+standard acc: 75.000%,adv acc: 46.094%
+epoch: 78, iter: 30400,lr=0.01, spent 17.37s,tr_loss: 1.350
+standard acc: 71.875%,adv acc: 46.094%
+
+==================== evaluation at epoch: 78 iteration: 30498 ====================
+test acc: 46.969%, test adv acc: 30.984%, spent: 4.059 s
+============================ end of evaluation ============================
+
+epoch: 79, iter: 30500,lr=0.01, spent 0.37s,tr_loss: 1.206
+standard acc: 72.656%,adv acc: 57.031%
+epoch: 79, iter: 30600,lr=0.01, spent 6.06s,tr_loss: 1.327
+standard acc: 73.438%,adv acc: 47.656%
+epoch: 79, iter: 30700,lr=0.01, spent 12.01s,tr_loss: 1.440
+standard acc: 67.188%,adv acc: 46.875%
+epoch: 79, iter: 30800,lr=0.01, spent 17.82s,tr_loss: 1.324
+standard acc: 71.875%,adv acc: 53.906%
+
+==================== evaluation at epoch: 79 iteration: 30889 ====================
+test acc: 46.492%, test adv acc: 30.633%, spent: 4.678 s
+============================ end of evaluation ============================
+
+epoch: 80, iter: 30900,lr=0.01, spent 0.90s,tr_loss: 1.389
+standard acc: 71.875%,adv acc: 47.656%
+epoch: 80, iter: 31000,lr=0.01, spent 7.04s,tr_loss: 1.363
+standard acc: 72.656%,adv acc: 48.438%
+epoch: 80, iter: 31100,lr=0.01, spent 12.84s,tr_loss: 1.341
+standard acc: 68.750%,adv acc: 46.875%
+epoch: 80, iter: 31200,lr=0.01, spent 19.30s,tr_loss: 1.490
+standard acc: 64.062%,adv acc: 41.406%
+
+==================== evaluation at epoch: 80 iteration: 31280 ====================
+test acc: 46.062%, test adv acc: 31.102%, spent: 4.031 s
+============================ end of evaluation ============================
+
+epoch: 81, iter: 31300,lr=0.01, spent 1.31s,tr_loss: 1.343
+standard acc: 70.312%,adv acc: 47.656%
+epoch: 81, iter: 31400,lr=0.01, spent 7.36s,tr_loss: 1.455
+standard acc: 64.844%,adv acc: 47.656%
+epoch: 81, iter: 31500,lr=0.01, spent 15.63s,tr_loss: 1.479
+standard acc: 67.188%,adv acc: 46.094%
+epoch: 81, iter: 31600,lr=0.01, spent 26.27s,tr_loss: 1.344
+standard acc: 74.219%,adv acc: 54.688%
+
+==================== evaluation at epoch: 81 iteration: 31671 ====================
+test acc: 46.992%, test adv acc: 30.828%, spent: 3.889 s
+============================ end of evaluation ============================
+
+epoch: 82, iter: 31700,lr=0.01, spent 2.17s,tr_loss: 1.224
+standard acc: 76.562%,adv acc: 51.562%
+epoch: 82, iter: 31800,lr=0.01, spent 8.73s,tr_loss: 1.391
+standard acc: 67.969%,adv acc: 42.188%
+epoch: 82, iter: 31900,lr=0.01, spent 14.80s,tr_loss: 1.255
+standard acc: 74.219%,adv acc: 49.219%
+epoch: 82, iter: 32000,lr=0.01, spent 21.18s,tr_loss: 1.454
+standard acc: 64.844%,adv acc: 41.406%
+
+==================== evaluation at epoch: 82 iteration: 32062 ====================
+test acc: 46.797%, test adv acc: 31.000%, spent: 4.061 s
+============================ end of evaluation ============================
+
+epoch: 83, iter: 32100,lr=0.01, spent 2.65s,tr_loss: 1.379
+standard acc: 67.969%,adv acc: 46.875%
+epoch: 83, iter: 32200,lr=0.01, spent 8.39s,tr_loss: 1.287
+standard acc: 69.531%,adv acc: 50.000%
+epoch: 83, iter: 32300,lr=0.01, spent 18.68s,tr_loss: 1.410
+standard acc: 66.406%,adv acc: 47.656%
+epoch: 83, iter: 32400,lr=0.01, spent 25.77s,tr_loss: 1.379
+standard acc: 66.406%,adv acc: 44.531%
+
+==================== evaluation at epoch: 83 iteration: 32453 ====================
+test acc: 46.203%, test adv acc: 31.211%, spent: 3.990 s
+============================ end of evaluation ============================
+
+epoch: 84, iter: 32500,lr=0.01, spent 3.12s,tr_loss: 1.328
+standard acc: 67.188%,adv acc: 47.656%
+epoch: 84, iter: 32600,lr=0.01, spent 8.66s,tr_loss: 1.437
+standard acc: 66.406%,adv acc: 44.531%
+epoch: 84, iter: 32700,lr=0.01, spent 14.40s,tr_loss: 1.384
+standard acc: 66.406%,adv acc: 46.094%
+epoch: 84, iter: 32800,lr=0.01, spent 20.22s,tr_loss: 1.494
+standard acc: 66.406%,adv acc: 42.969%
+
+==================== evaluation at epoch: 84 iteration: 32844 ====================
+test acc: 45.891%, test adv acc: 30.219%, spent: 4.118 s
+============================ end of evaluation ============================
+
+epoch: 85, iter: 32900,lr=0.01, spent 3.38s,tr_loss: 1.228
+standard acc: 73.438%,adv acc: 49.219%
+epoch: 85, iter: 33000,lr=0.01, spent 9.14s,tr_loss: 1.276
+standard acc: 75.000%,adv acc: 48.438%
+epoch: 85, iter: 33100,lr=0.01, spent 18.72s,tr_loss: 1.350
+standard acc: 68.750%,adv acc: 46.094%
+epoch: 85, iter: 33200,lr=0.01, spent 27.75s,tr_loss: 1.417
+standard acc: 66.406%,adv acc: 46.094%
+
+==================== evaluation at epoch: 85 iteration: 33235 ====================
+test acc: 46.414%, test adv acc: 30.703%, spent: 4.320 s
+============================ end of evaluation ============================
+
+epoch: 86, iter: 33300,lr=0.01, spent 4.12s,tr_loss: 1.205
+standard acc: 76.562%,adv acc: 53.125%
+epoch: 86, iter: 33400,lr=0.01, spent 9.67s,tr_loss: 1.176
+standard acc: 75.000%,adv acc: 57.031%
+epoch: 86, iter: 33500,lr=0.01, spent 15.16s,tr_loss: 1.413
+standard acc: 65.625%,adv acc: 50.781%
+epoch: 86, iter: 33600,lr=0.01, spent 20.59s,tr_loss: 1.405
+standard acc: 64.844%,adv acc: 44.531%
+
+==================== evaluation at epoch: 86 iteration: 33626 ====================
+test acc: 45.703%, test adv acc: 30.578%, spent: 3.784 s
+============================ end of evaluation ============================
+
+epoch: 87, iter: 33700,lr=0.01, spent 4.58s,tr_loss: 1.377
+standard acc: 67.188%,adv acc: 42.188%
+epoch: 87, iter: 33800,lr=0.01, spent 10.22s,tr_loss: 1.446
+standard acc: 67.188%,adv acc: 44.531%
+epoch: 87, iter: 33900,lr=0.01, spent 15.63s,tr_loss: 1.350
+standard acc: 65.625%,adv acc: 46.094%
+epoch: 87, iter: 34000,lr=0.01, spent 21.30s,tr_loss: 1.415
+standard acc: 67.969%,adv acc: 49.219%
+
+==================== evaluation at epoch: 87 iteration: 34017 ====================
+test acc: 45.977%, test adv acc: 29.883%, spent: 3.982 s
+============================ end of evaluation ============================
+
+epoch: 88, iter: 34100,lr=0.01, spent 4.76s,tr_loss: 1.465
+standard acc: 68.750%,adv acc: 49.219%
+epoch: 88, iter: 34200,lr=0.01, spent 10.15s,tr_loss: 1.183
+standard acc: 75.000%,adv acc: 54.688%
+epoch: 88, iter: 34300,lr=0.01, spent 15.41s,tr_loss: 1.383
+standard acc: 67.969%,adv acc: 45.312%
+epoch: 88, iter: 34400,lr=0.01, spent 21.22s,tr_loss: 1.545
+standard acc: 68.750%,adv acc: 44.531%
+
+==================== evaluation at epoch: 88 iteration: 34408 ====================
+test acc: 46.320%, test adv acc: 30.844%, spent: 3.893 s
+============================ end of evaluation ============================
+
+epoch: 89, iter: 34500,lr=0.01, spent 5.51s,tr_loss: 1.300
+standard acc: 71.094%,adv acc: 53.125%
+epoch: 89, iter: 34600,lr=0.01, spent 11.06s,tr_loss: 1.322
+standard acc: 75.781%,adv acc: 51.562%
+epoch: 89, iter: 34700,lr=0.01, spent 17.31s,tr_loss: 1.247
+standard acc: 72.656%,adv acc: 57.812%
+
+==================== evaluation at epoch: 89 iteration: 34799 ====================
+test acc: 46.359%, test adv acc: 30.984%, spent: 3.923 s
+============================ end of evaluation ============================
+
+epoch: 90, iter: 34800,lr=0.01, spent 0.30s,tr_loss: 1.389
+standard acc: 66.406%,adv acc: 50.781%
+epoch: 90, iter: 34900,lr=0.01, spent 5.70s,tr_loss: 1.332
+standard acc: 75.781%,adv acc: 48.438%
+epoch: 90, iter: 35000,lr=0.01, spent 11.10s,tr_loss: 1.296
+standard acc: 71.094%,adv acc: 48.438%
+epoch: 90, iter: 35100,lr=0.01, spent 16.53s,tr_loss: 1.524
+standard acc: 63.281%,adv acc: 46.094%
+
+==================== evaluation at epoch: 90 iteration: 35190 ====================
+test acc: 46.953%, test adv acc: 30.711%, spent: 3.876 s
+============================ end of evaluation ============================
+
+epoch: 91, iter: 35200,lr=0.01, spent 0.75s,tr_loss: 1.318
+standard acc: 71.094%,adv acc: 49.219%
+epoch: 91, iter: 35300,lr=0.01, spent 6.35s,tr_loss: 1.288
+standard acc: 71.875%,adv acc: 46.875%
+epoch: 91, iter: 35400,lr=0.01, spent 11.86s,tr_loss: 1.410
+standard acc: 66.406%,adv acc: 41.406%
+epoch: 91, iter: 35500,lr=0.01, spent 17.15s,tr_loss: 1.373
+standard acc: 68.750%,adv acc: 48.438%
+
+==================== evaluation at epoch: 91 iteration: 35581 ====================
+test acc: 46.914%, test adv acc: 30.672%, spent: 3.774 s
+============================ end of evaluation ============================
+
+epoch: 92, iter: 35600,lr=0.01, spent 1.25s,tr_loss: 1.401
+standard acc: 73.438%,adv acc: 44.531%
+epoch: 92, iter: 35700,lr=0.01, spent 6.56s,tr_loss: 1.302
+standard acc: 71.875%,adv acc: 48.438%
+epoch: 92, iter: 35800,lr=0.01, spent 12.00s,tr_loss: 1.464
+standard acc: 64.062%,adv acc: 43.750%
+epoch: 92, iter: 35900,lr=0.01, spent 17.44s,tr_loss: 1.376
+standard acc: 69.531%,adv acc: 44.531%
+
+==================== evaluation at epoch: 92 iteration: 35972 ====================
+test acc: 46.680%, test adv acc: 30.445%, spent: 4.083 s
+============================ end of evaluation ============================
+
+epoch: 93, iter: 36000,lr=0.01, spent 1.98s,tr_loss: 1.325
+standard acc: 68.750%,adv acc: 45.312%
+epoch: 93, iter: 36100,lr=0.01, spent 7.52s,tr_loss: 1.250
+standard acc: 71.875%,adv acc: 55.469%
+epoch: 93, iter: 36200,lr=0.01, spent 12.94s,tr_loss: 1.412
+standard acc: 69.531%,adv acc: 47.656%
+epoch: 93, iter: 36300,lr=0.01, spent 18.25s,tr_loss: 1.415
+standard acc: 69.531%,adv acc: 42.969%
+
+==================== evaluation at epoch: 93 iteration: 36363 ====================
+test acc: 46.203%, test adv acc: 30.805%, spent: 3.913 s
+============================ end of evaluation ============================
+
+epoch: 94, iter: 36400,lr=0.01, spent 2.30s,tr_loss: 1.392
+standard acc: 70.312%,adv acc: 47.656%
+epoch: 94, iter: 36500,lr=0.01, spent 7.97s,tr_loss: 1.432
+standard acc: 64.062%,adv acc: 42.188%
+epoch: 94, iter: 36600,lr=0.01, spent 13.59s,tr_loss: 1.521
+standard acc: 65.625%,adv acc: 39.844%
+epoch: 94, iter: 36700,lr=0.01, spent 19.26s,tr_loss: 1.387
+standard acc: 71.875%,adv acc: 44.531%
+
+==================== evaluation at epoch: 94 iteration: 36754 ====================
+test acc: 45.484%, test adv acc: 30.672%, spent: 3.869 s
+============================ end of evaluation ============================
+
+epoch: 95, iter: 36800,lr=0.01, spent 2.66s,tr_loss: 1.352
+standard acc: 68.750%,adv acc: 49.219%
+epoch: 95, iter: 36900,lr=0.01, spent 8.01s,tr_loss: 1.220
+standard acc: 75.781%,adv acc: 53.906%
+epoch: 95, iter: 37000,lr=0.01, spent 13.48s,tr_loss: 1.469
+standard acc: 63.281%,adv acc: 40.625%
+epoch: 95, iter: 37100,lr=0.01, spent 18.87s,tr_loss: 1.529
+standard acc: 67.188%,adv acc: 42.188%
+
+==================== evaluation at epoch: 95 iteration: 37145 ====================
+test acc: 46.602%, test adv acc: 30.750%, spent: 3.873 s
+============================ end of evaluation ============================
+
+epoch: 96, iter: 37200,lr=0.01, spent 3.15s,tr_loss: 1.410
+standard acc: 64.844%,adv acc: 45.312%
+epoch: 96, iter: 37300,lr=0.01, spent 8.55s,tr_loss: 1.348
+standard acc: 75.781%,adv acc: 49.219%
+epoch: 96, iter: 37400,lr=0.01, spent 13.93s,tr_loss: 1.379
+standard acc: 65.625%,adv acc: 46.094%
+epoch: 96, iter: 37500,lr=0.01, spent 19.33s,tr_loss: 1.267
+standard acc: 80.469%,adv acc: 58.594%
+
+==================== evaluation at epoch: 96 iteration: 37536 ====================
+test acc: 46.656%, test adv acc: 30.508%, spent: 3.837 s
+============================ end of evaluation ============================
+
+epoch: 97, iter: 37600,lr=0.01, spent 4.06s,tr_loss: 1.226
+standard acc: 75.781%,adv acc: 50.781%
+epoch: 97, iter: 37700,lr=0.01, spent 9.58s,tr_loss: 1.243
+standard acc: 76.562%,adv acc: 53.125%
+epoch: 97, iter: 37800,lr=0.01, spent 14.89s,tr_loss: 1.428
+standard acc: 64.844%,adv acc: 44.531%
+epoch: 97, iter: 37900,lr=0.01, spent 20.31s,tr_loss: 1.342
+standard acc: 66.406%,adv acc: 46.875%
+
+==================== evaluation at epoch: 97 iteration: 37927 ====================
+test acc: 45.781%, test adv acc: 30.734%, spent: 4.020 s
+============================ end of evaluation ============================
+
+epoch: 98, iter: 38000,lr=0.01, spent 5.06s,tr_loss: 1.491
+standard acc: 64.844%,adv acc: 45.312%
+epoch: 98, iter: 38100,lr=0.01, spent 10.50s,tr_loss: 1.369
+standard acc: 69.531%,adv acc: 46.094%
+epoch: 98, iter: 38200,lr=0.01, spent 15.82s,tr_loss: 1.508
+standard acc: 64.844%,adv acc: 51.562%
+epoch: 98, iter: 38300,lr=0.01, spent 21.54s,tr_loss: 1.409
+standard acc: 63.281%,adv acc: 46.094%
+
+==================== evaluation at epoch: 98 iteration: 38318 ====================
+test acc: 46.141%, test adv acc: 30.656%, spent: 4.368 s
+============================ end of evaluation ============================
+
+epoch: 99, iter: 38400,lr=0.01, spent 5.30s,tr_loss: 1.451
+standard acc: 68.750%,adv acc: 41.406%
+epoch: 99, iter: 38500,lr=0.01, spent 10.66s,tr_loss: 1.342
+standard acc: 73.438%,adv acc: 45.312%
+epoch: 99, iter: 38600,lr=0.01, spent 16.42s,tr_loss: 1.443
+standard acc: 61.719%,adv acc: 42.188%
+epoch: 99, iter: 38700,lr=0.01, spent 23.47s,tr_loss: 1.336
+standard acc: 71.875%,adv acc: 48.438%
+
+==================== evaluation at epoch: 99 iteration: 38709 ====================
+test acc: 45.234%, test adv acc: 29.773%, spent: 5.316 s
+============================ end of evaluation ============================
+
+epoch: 100, iter: 38800,lr=0.01, spent 7.22s,tr_loss: 1.428
+standard acc: 70.312%,adv acc: 48.438%
+epoch: 100, iter: 38900,lr=0.01, spent 14.57s,tr_loss: 1.407
+standard acc: 69.531%,adv acc: 49.219%
+epoch: 100, iter: 39000,lr=0.01, spent 22.05s,tr_loss: 1.239
+standard acc: 76.562%,adv acc: 51.562%
+
+==================== evaluation at epoch: 100 iteration: 39100 ====================
+test acc: 46.117%, test adv acc: 30.398%, spent: 5.363 s
+============================ end of evaluation ============================
+
+epoch: 101, iter: 39100,lr=0.01, spent 0.39s,tr_loss: 1.396
+standard acc: 67.969%,adv acc: 50.000%
+epoch: 101, iter: 39200,lr=0.01, spent 8.43s,tr_loss: 1.458
+standard acc: 68.750%,adv acc: 42.188%
+epoch: 101, iter: 39300,lr=0.01, spent 17.03s,tr_loss: 1.398
+standard acc: 66.406%,adv acc: 48.438%
+epoch: 101, iter: 39400,lr=0.01, spent 24.55s,tr_loss: 1.444
+standard acc: 65.625%,adv acc: 43.750%
+
+==================== evaluation at epoch: 101 iteration: 39491 ====================
+test acc: 46.391%, test adv acc: 30.555%, spent: 5.347 s
+============================ end of evaluation ============================
+
+epoch: 102, iter: 39500,lr=0.01, spent 0.99s,tr_loss: 1.343
+standard acc: 67.969%,adv acc: 46.875%
+epoch: 102, iter: 39600,lr=0.01, spent 8.28s,tr_loss: 1.382
+standard acc: 68.750%,adv acc: 47.656%
+epoch: 102, iter: 39700,lr=0.01, spent 15.70s,tr_loss: 1.360
+standard acc: 68.750%,adv acc: 50.781%
+epoch: 102, iter: 39800,lr=0.01, spent 23.10s,tr_loss: 1.406
+standard acc: 67.969%,adv acc: 51.562%
+
+==================== evaluation at epoch: 102 iteration: 39882 ====================
+test acc: 46.438%, test adv acc: 30.031%, spent: 5.338 s
+============================ end of evaluation ============================
+
+epoch: 103, iter: 39900,lr=0.01, spent 1.73s,tr_loss: 1.546
+standard acc: 64.844%,adv acc: 41.406%
+epoch: 103, iter: 40000,lr=0.001, spent 9.06s,tr_loss: 1.345
+standard acc: 72.656%,adv acc: 52.344%
+epoch: 103, iter: 40100,lr=0.001, spent 16.95s,tr_loss: 1.150
+standard acc: 71.875%,adv acc: 53.906%
+epoch: 103, iter: 40200,lr=0.001, spent 24.86s,tr_loss: 1.265
+standard acc: 73.438%,adv acc: 50.000%
+
+==================== evaluation at epoch: 103 iteration: 40273 ====================
+test acc: 47.664%, test adv acc: 31.375%, spent: 5.380 s
+============================ end of evaluation ============================
+
+epoch: 104, iter: 40300,lr=0.001, spent 2.31s,tr_loss: 1.226
+standard acc: 71.094%,adv acc: 50.781%
+epoch: 104, iter: 40400,lr=0.001, spent 9.78s,tr_loss: 1.357
+standard acc: 64.844%,adv acc: 50.781%
+epoch: 104, iter: 40500,lr=0.001, spent 17.65s,tr_loss: 1.270
+standard acc: 76.562%,adv acc: 56.250%
+epoch: 104, iter: 40600,lr=0.001, spent 25.00s,tr_loss: 1.263
+standard acc: 75.000%,adv acc: 50.781%
+
+==================== evaluation at epoch: 104 iteration: 40664 ====================
+test acc: 47.844%, test adv acc: 30.812%, spent: 5.418 s
+============================ end of evaluation ============================
+
+epoch: 105, iter: 40700,lr=0.001, spent 3.21s,tr_loss: 1.262
+standard acc: 69.531%,adv acc: 53.125%
+epoch: 105, iter: 40800,lr=0.001, spent 10.58s,tr_loss: 1.222
+standard acc: 77.344%,adv acc: 54.688%
+epoch: 105, iter: 40900,lr=0.001, spent 17.91s,tr_loss: 1.165
+standard acc: 76.562%,adv acc: 51.562%
+epoch: 105, iter: 41000,lr=0.001, spent 25.24s,tr_loss: 1.351
+standard acc: 67.969%,adv acc: 50.781%
+
+==================== evaluation at epoch: 105 iteration: 41055 ====================
+test acc: 47.883%, test adv acc: 30.852%, spent: 5.311 s
+============================ end of evaluation ============================
+
+epoch: 106, iter: 41100,lr=0.001, spent 3.74s,tr_loss: 1.220
+standard acc: 76.562%,adv acc: 48.438%
+epoch: 106, iter: 41200,lr=0.001, spent 11.31s,tr_loss: 1.271
+standard acc: 71.875%,adv acc: 50.000%
+epoch: 106, iter: 41300,lr=0.001, spent 18.68s,tr_loss: 1.277
+standard acc: 71.094%,adv acc: 52.344%
+epoch: 106, iter: 41400,lr=0.001, spent 26.46s,tr_loss: 1.352
+standard acc: 72.656%,adv acc: 50.781%
+
+==================== evaluation at epoch: 106 iteration: 41446 ====================
+test acc: 47.820%, test adv acc: 30.812%, spent: 5.394 s
+============================ end of evaluation ============================
+
+epoch: 107, iter: 41500,lr=0.001, spent 4.35s,tr_loss: 1.251
+standard acc: 76.562%,adv acc: 56.250%
+epoch: 107, iter: 41600,lr=0.001, spent 11.75s,tr_loss: 1.296
+standard acc: 67.969%,adv acc: 47.656%
+epoch: 107, iter: 41700,lr=0.001, spent 18.91s,tr_loss: 1.278
+standard acc: 74.219%,adv acc: 47.656%
+epoch: 107, iter: 41800,lr=0.001, spent 26.77s,tr_loss: 1.106
+standard acc: 75.781%,adv acc: 59.375%
+
+==================== evaluation at epoch: 107 iteration: 41837 ====================
+test acc: 47.844%, test adv acc: 31.039%, spent: 5.322 s
+============================ end of evaluation ============================
+
+epoch: 108, iter: 41900,lr=0.001, spent 4.96s,tr_loss: 1.275
+standard acc: 65.625%,adv acc: 45.312%
+epoch: 108, iter: 42000,lr=0.001, spent 12.45s,tr_loss: 1.082
+standard acc: 78.125%,adv acc: 60.938%
+epoch: 108, iter: 42100,lr=0.001, spent 19.84s,tr_loss: 1.275
+standard acc: 73.438%,adv acc: 44.531%
+epoch: 108, iter: 42200,lr=0.001, spent 27.23s,tr_loss: 1.410
+standard acc: 61.719%,adv acc: 46.875%
+
+==================== evaluation at epoch: 108 iteration: 42228 ====================
+test acc: 47.906%, test adv acc: 30.781%, spent: 5.736 s
+============================ end of evaluation ============================
+
+epoch: 109, iter: 42300,lr=0.001, spent 5.68s,tr_loss: 1.258
+standard acc: 71.875%,adv acc: 57.031%
+epoch: 109, iter: 42400,lr=0.001, spent 12.92s,tr_loss: 1.225
+standard acc: 78.906%,adv acc: 56.250%
+epoch: 109, iter: 42500,lr=0.001, spent 20.41s,tr_loss: 1.207
+standard acc: 75.781%,adv acc: 53.906%
+epoch: 109, iter: 42600,lr=0.001, spent 27.75s,tr_loss: 1.322
+standard acc: 75.781%,adv acc: 50.781%
+
+==================== evaluation at epoch: 109 iteration: 42619 ====================
+test acc: 47.844%, test adv acc: 30.898%, spent: 5.229 s
+============================ end of evaluation ============================
+
+epoch: 110, iter: 42700,lr=0.001, spent 6.38s,tr_loss: 1.221
+standard acc: 78.906%,adv acc: 50.781%
+epoch: 110, iter: 42800,lr=0.001, spent 14.08s,tr_loss: 1.398
+standard acc: 72.656%,adv acc: 40.625%
+epoch: 110, iter: 42900,lr=0.001, spent 21.75s,tr_loss: 1.252
+standard acc: 71.094%,adv acc: 53.125%
+epoch: 110, iter: 43000,lr=0.001, spent 29.17s,tr_loss: 1.392
+standard acc: 67.188%,adv acc: 51.562%
+
+==================== evaluation at epoch: 110 iteration: 43010 ====================
+test acc: 47.875%, test adv acc: 30.828%, spent: 5.463 s
+============================ end of evaluation ============================
+
