@@ -63,7 +63,7 @@ def main():
     args = parser.parse_args()
     project_module = load_project(args.project_dir)
 
-    net = project_module.Net()
+    net = project_module.Net(project_module.ResidualBlock, [2, 2, 2])
     net.to(device)
     net.load_for_testing(project_dir=args.project_dir)
 
