@@ -172,7 +172,7 @@ def main() :
 
     print("Load CNN model ...")
     project_module = load_project(os.getcwd())
-    net = project_module.Net()
+    net = project_module.Net(project_module.ResidualBlock, [2, 2, 2])
     net.load_for_testing(project_dir='.')
     net.to(device)
 
