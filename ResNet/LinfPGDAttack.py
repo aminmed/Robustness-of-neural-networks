@@ -72,7 +72,7 @@ def main() :
     os.mkdir(experiment_directory)
     print("Load default model ...")
     project_module = load_project(os.getcwd())
-    net = project_module.Net()
+    net = project_module.Net(project_module.ResidualBlock, [2, 2, 2])
     net.to(device)
     net.load(args.path_model)
     print("Default model loaded ...")
