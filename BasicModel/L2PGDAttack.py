@@ -27,27 +27,52 @@ use_cuda = torch.cuda.is_available()
 device = torch.device("cuda" if use_cuda else "cpu")
 
 class L2PGDAttack(object):
-    def __init__(self, model, epsilon = 0.025,alpha=2/255,iteration=40):
+    def __init__(self, model, epsilon = 0.025,alpha=2/255,iteration=40,random_start=True,):
         self.model = model
         self.epsilon=epsilon
         self.alpha=alpha
         self.iteration=iteration
+        self.random_start=random_start
+        self.eps_for_division = 1e-10
         self.name = "L2PGD"
 
     def perturb(self, x_natural, y):
-        x = x_natural.detach()
-        x = x + torch.zeros_like(x).uniform_(-self.epsilon, self.epsilon)
-        ori_images = x.data
-        for i in range(self.iteration):
-            x.requires_grad_()
-            with torch.enable_grad():
-                outputs = self.model(x)
-                loss = F.cross_entropy(outputs, y)
-            loss.backward()
-            adv_images = x.detach() + self.alpha * torch.sign(x)
-            eta = torch.clamp(adv_images - ori_images, min=-self.epsilon, max=self.epsilon)
-            x = torch.clamp(ori_images + eta, min=0., max=255.).detach_()
-        return x , self.model(x)
+        loss = nn.CrossEntropyLoss()
+        adv_images = x_natural.clone().detach()
+        batch_size = len(x_natural)
+
+        if self.random_start:
+            # Starting at a uniformly random point
+            delta = torch.empty_like(adv_images).normal_()
+            d_flat = delta.view(adv_images.size(0),-1)
+            n = d_flat.norm(p=2,dim=1).view(adv_images.size(0),1,1,1)
+            r = torch.zeros_like(n).uniform_(0, 1)
+            delta *= r/n*self.epsilon
+            adv_images = torch.clamp(adv_images + delta, min=0, max=1).detach()
+
+        for _ in range(self.iteration):
+            adv_images.requires_grad = True
+            outputs = self.model(adv_images)
+
+            # Calculate loss
+            
+            cost = loss(outputs, y)
+
+            # Update adversarial images
+            grad = torch.autograd.grad(cost, adv_images,
+                                       retain_graph=False, create_graph=False)[0]
+            grad_norms = torch.norm(grad.view(batch_size, -1), p=2, dim=1) + self.eps_for_division
+            grad = grad / grad_norms.view(batch_size, 1, 1, 1)
+            adv_images = adv_images.detach() + self.alpha * grad
+
+            delta = adv_images - x_natural
+            delta_norms = torch.norm(delta.view(batch_size, -1), p=2, dim=1)
+            factor = self.epsilon / delta_norms
+            factor = torch.min(factor, torch.ones_like(delta_norms))
+            delta = delta * factor.view(-1, 1, 1, 1)
+
+            adv_images = torch.clamp(x_natural + delta, min=0, max=1).detach()
+        return adv_images , self.model(adv_images)
         
 def main() : 
     parser = argparse.ArgumentParser()
