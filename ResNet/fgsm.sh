@@ -1,2 +1,2 @@
 #!/bin/sh
-python3 L2PGDAttack.py   --epsilon 0.6
+python3 FGSMAttack.py   --epsilon 0.6
