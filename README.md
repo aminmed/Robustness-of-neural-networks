@@ -15,7 +15,7 @@ Our implementation is based on python and it's inspired from this articles:
 
 - Robustness of Bayesian Neural Networks to White-Box Adversarial Attacks: https://arxiv.org/pdf/2111.08591.pdf
 
-- Adv-BNN: Improved Adversarial Defense through Robust Bayesian Neural Network 
+- Adv-BNN: Improved Adversarial Defense through Robust Bayesian Neural Network: https://arxiv.org/abs/1810.01279
 
 
 and these githubs repositories: 
@@ -34,16 +34,13 @@ and these githubs repositories:
  
 ## How to train ?
 	#Train vanilla VGG16 with adversarial training 
-
+	
  	cd ./BasicModel 
  	chmod +x adv_train.sh 
 	sh ./adv_train.sh
 	
-
 	#Train BNN VGG16 and BNN VGG16 with bayesian adversarial training
 	
-
- 	
  	cd ./Bayesian_adversarial_training 
  	chmod +x train_BNN_adv.sh 
 	sh ./train_BNN_adv.sh

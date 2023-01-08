@@ -1,2 +1,8 @@
 #!/bin/sh
-python3 L2PGDAttack.py   --epsilon 0.6
+eps=0.01
+model_path=./checkpoints/cifar10_BNN.pth 
+alpha=1.0
+python3 L2PGDAttack.py\
+        --epsilon ${eps}
+        --alpha ${alpha}
+        --path_model ${model_path}
