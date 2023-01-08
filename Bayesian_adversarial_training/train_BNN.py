@@ -1,4 +1,9 @@
 #!/usr/bin/env python
+"""
+This code is an adaptation to our use case with our implemented attacks from : 
+    https://github.com/xuanqing94/BayesianDefense
+"""
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
@@ -18,7 +23,7 @@ def elbo(out, y, kl_sum, beta):
     ce_loss = F.cross_entropy(out, y)
     return ce_loss + beta * kl_sum
 
-from attacker.PGD import Linf_PGD
+from attacks.LinfPGDAttack import Linf_PGD
 
 parser = argparse.ArgumentParser(description='PyTorch CIFAR10 Training')
 parser.add_argument('--lr', default=0.01, type=float, help='learning rate')
@@ -53,8 +58,8 @@ else:
 
 # Model
 if opt.model == 'vgg':
-    from models.vgg_vi import VGG
-    net = nn.DataParallel(VGG(opt.sigma_0, len(trainset), opt.init_s, 'VGG11', nclass, img_width=img_width).cuda())
+    from models.BNN_VGG16    import VGG
+    net = nn.DataParallel(VGG(opt.sigma_0, len(trainset), opt.init_s, 'VGG16', nclass, img_width=img_width).cuda())
 else:
     raise NotImplementedError('Invalid model')
 
