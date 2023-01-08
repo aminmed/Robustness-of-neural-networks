@@ -22,7 +22,6 @@ and these githubs repositories:
 
 - https://github.com/xuanqing94/BayesianDefense
 
-- 
 
 - https://github.com/ndb796/Pytorch-Adversarial-Training-CIFAR
 
