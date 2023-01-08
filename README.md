@@ -1,4 +1,4 @@
-# Bayesian adversarial training as defense against white-box attacks
+# Bayesian adversarial training to improve the robustness of Machine Learning models against white-box attacks
 Here is an implementation of adversarial training for image classification which is designed to defend against white box attacks, specifically FGSM, L2 PGD, and Linf PGD. It is built using the CIFAR dataset and includes the following model architectures:
 
 - The initial model provided in the lecture.
