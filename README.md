@@ -33,22 +33,22 @@ and these githubs repositories:
  ```` 
  
 ## How to train ?
-	- Train vanilla VGG16 with adversarial training 
-	````
+	#Train vanilla VGG16 with adversarial training 
+
  	cd ./BasicModel 
  	chmod +x adv_train.sh 
 	sh ./adv_train.sh
 	
- 	```` 
-	- Train BNN VGG16 and BNN VGG16 with bayesian adversarial training
+
+	#Train BNN VGG16 and BNN VGG16 with bayesian adversarial training
 	
-	````
+
  	
  	cd ./Bayesian_adversarial_training 
  	chmod +x train_BNN_adv.sh 
 	sh ./train_BNN_adv.sh
 	
- 	````
+
 ## How to test ?
 
 ## Contributors :
