@@ -33,13 +33,13 @@ and these githubs repositories:
  ```` 
  
 ## How to train ?
-	#Train vanilla VGG16 with adversarial training 
+#### Train vanilla VGG16 with adversarial training 
 	
  	cd ./BasicModel 
  	chmod +x adv_train.sh 
 	sh ./adv_train.sh
 	
-	#Train BNN VGG16 and BNN VGG16 with bayesian adversarial training
+#### Train BNN VGG16 and BNN VGG16 with bayesian adversarial training
 	
  	cd ./Bayesian_adversarial_training 
  	chmod +x train_BNN_adv.sh 
@@ -47,19 +47,19 @@ and these githubs repositories:
 	
 
 ## How to test ?
-### Test trained models using LinfPGD
+#### Test trained models using LinfPGD
 	
  	cd ./BasicModel 
  	chmod +x linfpgd.sh 
 	sh ./linfpgd.sh
 
-### Test trained models using L2PGD
+#### Test trained models using L2PGD
 	
  	cd ./BasicModel 
  	chmod +x l2pgd.sh 
 	sh ./l2pgd.sh
 	
-### Test trained models using FGSM
+#### Test trained models using FGSM
 	
  	cd ./BasicModel 
  	chmod +x fgsm.sh 
