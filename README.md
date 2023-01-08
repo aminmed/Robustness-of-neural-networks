@@ -47,6 +47,23 @@ and these githubs repositories:
 	
 
 ## How to test ?
+### Test trained models using LinfPGD
+	
+ 	cd ./BasicModel 
+ 	chmod +x linfpgd.sh 
+	sh ./linfpgd.sh
+
+### Test trained models using L2PGD
+	
+ 	cd ./BasicModel 
+ 	chmod +x l2pgd.sh 
+	sh ./l2pgd.sh
+	
+### Test trained models using FGSM
+	
+ 	cd ./BasicModel 
+ 	chmod +x fgsm.sh 
+	sh ./fgsm.sh	
 
 ## Contributors :
 
